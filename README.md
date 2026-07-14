@@ -12,10 +12,10 @@
 ---
 
 ### 🎓 About Me
-- 🌱 I'm currently learning **Python, Web Development, and Data Structures**
+- 🌱 I'm currently learning **Python, DevOps, and Data Structures**
 - 📚 Studying **Computer Science**
 - 💡 Interested in **AI, DevOps, and Open Source**
-- 🎯 2026 Goal: **Build 5 solid projects and contribute to open source**
+- 🎯 2026 Goal: **Build 2 solid projects**
 - 💬 Ask me about **Python, web dev, or anything tech**
 - 📫 Reach me at: **rajaarav246@gmail.com**
 
