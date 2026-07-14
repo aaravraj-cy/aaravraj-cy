@@ -17,7 +17,7 @@
 - 💡 Interested in **AI, DevOps, and Open Source**
 - 🎯 2026 Goal: **Build 5 solid projects and contribute to open source**
 - 💬 Ask me about **Python, web dev, or anything tech**
-- 📫 Reach me at: **aaravraj.dev@example.com**
+- 📫 Reach me at: **rajaarav246@gmail.com**
 
 ---
 
