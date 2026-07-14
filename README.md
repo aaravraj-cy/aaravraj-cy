@@ -90,4 +90,4 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by! Feel free to explore my repositories.</i></p>
+<p align="center"><i>Still figuring things out, one repo at a time. Thanks for stopping by!</i></p>
